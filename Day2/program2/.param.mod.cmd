@@ -1,0 +1,1 @@
+cmd_/home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/cross-compile/module-parameters/param.mod := { echo  /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/cross-compile/module-parameters/param.o;  echo; } > /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/cross-compile/module-parameters/param.mod

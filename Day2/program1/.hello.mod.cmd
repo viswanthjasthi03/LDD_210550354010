@@ -1,0 +1,1 @@
+cmd_/home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/cross-compile/hello/hello.mod := { echo  /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/cross-compile/hello/hello.o;  echo; } > /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/cross-compile/hello/hello.mod
