@@ -1,0 +1,1 @@
+cmd_/home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/assignment/Day4/program3/dynamic.mod := { echo  /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/assignment/Day4/program3/dynamic.o;  echo; } > /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/assignment/Day4/program3/dynamic.mod
