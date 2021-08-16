@@ -1,0 +1,1 @@
+cmd_/home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/assignment/Day5/program2/ioctl.mod := { echo  /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/assignment/Day5/program2/ioctl.o;  echo; } > /home/viswanthjasthi/Desktop/cdac/device-drivers/rpi4/device-drivers/assignment/Day5/program2/ioctl.mod
