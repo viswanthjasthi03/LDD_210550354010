@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/device-drivers/exam/program1/Module.symvers := sed 's/ko$$/o/' /home/pi/Desktop/device-drivers/exam/program1/modules.order | scripts/mod/modpost -m -a   -o /home/pi/Desktop/device-drivers/exam/program1/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/device-drivers/exam/program1/modules.order := {   echo /home/pi/Desktop/device-drivers/exam/program1/driver.ko; :; } | awk '!x[$$0]++' - > /home/pi/Desktop/device-drivers/exam/program1/modules.order

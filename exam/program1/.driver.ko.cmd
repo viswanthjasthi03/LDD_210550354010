@@ -1,0 +1,1 @@
+cmd_/home/pi/Desktop/device-drivers/exam/program1/driver.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/Desktop/device-drivers/exam/program1/driver.ko /home/pi/Desktop/device-drivers/exam/program1/driver.o /home/pi/Desktop/device-drivers/exam/program1/driver.mod.o;  true
